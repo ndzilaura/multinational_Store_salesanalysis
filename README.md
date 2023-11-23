@@ -18,3 +18,7 @@ Upon further analysis I found that the sale of Montana made up 11% of the total 
 Therefor, Montana may not be a frequently used product in Canada as compared to the others. 
 
 ## Country, Month and Segment in which the highest units of goods were sold
+![Maximum number of goods sold](https://github.com/ndzilaura/multinational_Store_salesanalysis/assets/147541699/8878ba86-bec7-4c14-8c97-cdfb8168aed1)
+Firstly, using the MAX function I determined the maximum units of goods sold.
+Then used VLOOKUP to locate the country, segment and month in which the sales took place. 
+For completion sake I also located the product that had the maximum number of units sold at a go. 
